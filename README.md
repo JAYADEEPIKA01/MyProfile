@@ -48,3 +48,12 @@ else:
 - [x] list syntax required (any unordered or ordered list supported)
 - [x] this is a complete item
 - [ ] this is an incomplete item
+
+
+
+
+
+s.no|name|mobilenumber
+----|----|------------
+1|deepika|2333454567
+2|sujan|34456777888
